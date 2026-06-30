@@ -1,0 +1,19 @@
+# Virtual Environment
+chatbot/
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
+
+# Streamlit
+.streamlit/
+
+# OS
+.DS_Store
+Thumbs.db
