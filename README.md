@@ -61,7 +61,7 @@ AI-Health-Chatbot/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Health-Chatbot](https://github.com/AmarnathKurup/Thinkqbator-smart-ai-chatbot.git
+git clone https://github.com/AmarnathKurup/Thinkqbator-smart-ai-chatbot.git
 cd AI-Health-Chatbot
 ```
 
